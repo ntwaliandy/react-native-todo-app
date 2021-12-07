@@ -1,16 +1,11 @@
 {
   "expo": {
-   "name": "ToDo-App",
-   "icon": "",
-   "version": "1.0.0",
-   "slug": "",
-   "ios": {
-     "bundleIdentifier": "com.yourcompany.todoapp",
-     "buildNumber": "1.0.0"
-   },
-   "android": {
-     "package": "com.yourcompany.todoapp",
-     "versionCode": 1
-   }
-  }
+    "name": "first_project",
+    "slug": "first_project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "first_project"
 }
